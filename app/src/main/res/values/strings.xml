@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">ExpenseX</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_expense">Expense</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="expense_document">Expense Document</string>
+    <string name="doucument">document</string>
+    <string name="type">Type</string>
+    <string name="amount">Amount</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="add">ADD</string>
+    <string name="expense_detail">Expense Detail</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="enter_date">Enter Date</string>
+    <string name="enter_time">Enter Time</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="cancel">Cancel</string>
+    <string name="select_expense_type">Select Expense Type</string>
+    <string name="your_total_expense">Your Total Expense</string>
+    <string name="bdt_0">BDT 0</string>
+    <string name="from_date">From Date</string>
+    <string name="to_date">To Date</string>
+    <string name="update">Update</string>
+    <string name="please_pick_a_date">Please Pick a Date</string>
+    <string name="done">Done</string>
+    <string name="daily">Daily</string>
+    <string name="monthly">Monthly</string>
+    <string name="delete">Delete</string>
+    <string-array name="expense_type">
+        <item>All</item>
+        <item>Food</item>
+        <item>Tour</item>
+        <item>Medicine</item>
+        <item>Net Bill</item>
+        <item>Transport</item>
+        <item>Shopping</item>
+        <item>Gift</item>
+    </string-array>
+    <string-array name="add_expense_type">
+        <item>Food</item>
+        <item>Tour</item>
+        <item>Medicine</item>
+        <item>Net Bill</item>
+        <item>Transport</item>
+        <item>Shopping</item>
+        <item>Gift</item>
+    </string-array>
+</resources>
